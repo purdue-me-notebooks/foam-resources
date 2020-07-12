@@ -1,4 +1,12 @@
-# Foam
+# Purdue ME foam Learning Guide.
+
+This plan of study hasn't actually changed since I graduated in mid 2000s, it's time for a new learning methodology. This isn't preparing MEs for the roles of tomorrow. How much calculus did Scotty take?
+
+![](purdue_me_pos.png)
+
+## Usage
+
+    git clone https://github.com/purdue-me-notebooks/foam-resources.git
 
 👋 Welcome to your new Foam Workspace!
 
